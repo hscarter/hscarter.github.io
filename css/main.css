@@ -36,8 +36,10 @@ footer {
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
+    white-space: nowrap;
 }
 
 ul.posts li {
     list-style: none;
+    display: inline;
 }
